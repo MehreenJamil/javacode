@@ -24,7 +24,7 @@ public class JavaPractise {
                 int x=sc.nextInt();
                 //Complete this line
             }
-            System.out.println("================================");
+            System.out.println("First change via git================================");
     }
     
 }
